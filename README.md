@@ -1,5 +1,5 @@
-Homebrew-games
-==============
+Homebrew-alt
+============
 
 How do I install these formulae?
 --------------------------------
