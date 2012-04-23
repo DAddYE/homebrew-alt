@@ -1,16 +1,15 @@
-Homebrew-alt
-============
+## DAddYE Homebrew
 
-How do I install these formulae?
---------------------------------
-Just `brew tap DAddYE/alt` and then `brew install <formula>`.
+### How do I install these formulae?
 
-If the formula conflicts with one from mxcl/master or another tap, you can `brew install DAddYE/alt/<formula>`.
+Just `brew tap DAddYE/homebrew` and then `brew install daddye/<formula>`.
+
+If the formula conflicts with one from mxcl/master or another tap, you can `brew install DAddYE/<formula>`.
 
 You can also install via URL:
 
 ```sh
-$ brew install https://raw.github.com/DAddYE/homebrew-alt/master/<formula>.rb
+$ brew install https://raw.github.com/DAddYE/homebrew/master/<formula>.rb
 ```
 
 Docs
