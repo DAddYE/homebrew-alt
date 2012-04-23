@@ -19,8 +19,7 @@ class Vim < Formula
                           "--with-tlib=ncurses",
                           "--enable-cscope",
                           "--with-features=huge"
-:q
-q
+
     system "iconv -c -t UTF-8 ./runtime/tools/efm_perl.pl > ./runtime/tools/efm_perl.pl"
     system "make"
     system "make install"
